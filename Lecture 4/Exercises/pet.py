@@ -1,3 +1,3 @@
-petname = "Biscoff"
-pettype = "A golden retriever dog"
-petage = 1
+petname = "Bruno"
+pettype = "dog"
+petage = 3
